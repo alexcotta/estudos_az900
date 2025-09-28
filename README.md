@@ -4,6 +4,8 @@
 
 - [Conceitos Iniciais de Cloud com Azure](https://github.com/alexcotta/estudos_az900/blob/main/az_900_conceitos_iniciais/estudos-az900-conceitos-iniciais.md)
 
+- [Arquitetura e Serviços Azure](https://github.com/alexcotta/estudos_az900/blob/main/az_900_arquitetura_e_servicos/estudos-az900-arquitetura-e-servicos.md)
+
 ## Conhecimentos
 
 ## Requisitos [Opcional]
