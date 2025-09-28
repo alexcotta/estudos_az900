@@ -6,6 +6,8 @@
 
 - [Arquitetura e Serviços Azure](https://github.com/alexcotta/estudos_az900/blob/main/az_900_arquitetura_e_servicos/estudos-az900-arquitetura-e-servicos.md)
 
+- [Gerenciamento e Governança](https://github.com/alexcotta/estudos_az900/blob/main/az_900_gerenciamento_e_governanca/estudos-az900-gerenciamento-e-governanca.md)
+
 ## Conhecimentos
 
 ## Requisitos [Opcional]
